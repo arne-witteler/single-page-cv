@@ -10,7 +10,7 @@ The goal is to provide a clean HTML foundation that can later be extended with C
 
 You can view the live project here:
 
-[Live demo](https://your-project-url.com)
+[Live demo](https://single-page-cv-five.vercel.app)
 
 [Project Page](https://roadmap.sh/projects/single-page-cv)
 
